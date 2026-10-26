@@ -4,4 +4,4 @@
 
 2. Then, to run the Assembler use: java Assembler
 
-3. To run the disassembler useL java DIssaembler fizzbuzz.mhc-"(ascii or bin)"
+3. To run the disassembler use java Dissaembler fizzbuzz.mhc-"(ascii or bin)"
